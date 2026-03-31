@@ -8,10 +8,9 @@
 
 <h2>Languages and Utilities Used:</h2>
 
-- <b>C#</b>
-<br />
+- C#
 
-- <b>Unity</b>
+- Unity
 <br />
 
 <h2>Walk-through:</h2>
